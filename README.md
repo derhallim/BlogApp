@@ -1,3 +1,3 @@
 BlogApp
 =======
-hiii
+Blog App built with C# and MVC to work with SharePoint. 
